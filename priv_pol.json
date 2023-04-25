@@ -1,0 +1,55 @@
+{
+    "name":"Privacy Policy",
+    "clauses":[
+        {
+            "title":{
+                "korean":"랩이즈펀 주식회사의 개인정보보호방침",
+                "english":"Privacy Policy of Lab is Fun, Inc."
+            },
+            "korean":[
+                {
+                    "type":"p",
+                    "lines": [
+                        "랩이즈펀 주식회사(이하 랩이즈펀 또는 회사)는 개인정보보호법 등 대한민국의 개인정보보호법령을 준수합니다. 더불어 OECD의 개인정보 보호 가이드라인과 같은 국제 기준을 준수합니다.",
+                        "용어는 VZM 서비스 이용 약관에 명시되어 있습니다. 그 외에 필요한 경우 이 문서에서 별도 정의합니다."
+                    ]
+                }
+            ],
+            "english":[
+                {
+                    "type":"p",
+                    "lines": [
+                        "Lab is Fun, Inc (Lab is Fun or Company from now on) complies with all Korean laws and regulations including the Personal Information Protection Act. Company also complies with international standards such as the OECD Privacy Guidelines.",
+                        "All capitalized terms have their definition in VZM's Terms of Service, unless otherwise noted here."
+                    ]
+                }
+            ]
+        },
+        {
+            "title":{
+                "korean":"회사가 수집하는 개인정보",
+                "english":"Personal Information Company collects."
+            },
+            "korean":[
+                {
+                    "type":"p",
+                    "lines":[
+                        "회사는 계정 생성을 위해 소셜 미디어 OAuth API에 의존합니다. 회사는 이 API에서 제공하는 개인정보 중 해당 소셜미디어의 계정 Key(숫자)만을 수집하고, 그 외에는 수집하지 않습니다.",
+                        "사용자가 계정을 만들 때, 회사는 추가로 암호(비밀번호)를 수집합니다. 암호는 중요정보의 수정, 삭제 또는 회원 탈퇴 시 본인 확인을 위해 사용됩니다. 로그인할 때에는 암호를 사용하지 않습니다.",
+                        "사용자가 계정을 만들 때, 회사는 사용자의 별명을 수집합니다. 사용자는 이름을 자유롭게 입력할 수 있으며 실명을 넣지 않습니다."
+                    ]
+                }
+            ],
+            "english":[
+                {
+                    "type":"p",
+                    "lines":[
+                        "Company depends on the OAuth API of the social media service Users are using to make an Account. We collect nothing but the key number from data delivered from the API.",
+                        "Company collects passwords in the process of making an Account in addition. Users shall use the password to withdraw from this Service, or edit, delete important information to make sure You are who you are. You don't use this password to sign in.",
+                        "Company ask Users for a nickname in the process of making an Account. You can put anything but your real name."
+                    ]
+                }
+            ]
+        }
+    ]
+}
